@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+    <channel>
+        <title>Quarkus</title>
+        <link>https://quarkus.io</link>
+        <description>Quarkus: Supersonic Subatomic Java</description>
+        <lastBuildDate>Fri, 18 Jun 2021 03:07:36 +0000</lastBuildDate>
+        
+        <item>
+            <title>Quarkus 1.13.7.Final released - Maintenance release</title>
+            <link>
+                https://quarkus.io/blog/quarkus-1-13-7-final-released/
+            </link>
+            <description>
+                And here comes 1.13.7.Final, our (most probably!) last round of bugfixes for the 1.13 release. If you are not using 1.13 already, please refer to the 1.13 migration guide. Full changelog You can get the full changelog of 1.13.7.Final on GitHub. 2.0 coming soon We will soon start a new...
+            </description>
+            <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-1-13-7-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 2.0.0.CR3 released - Towards Final</title>
+            <link>
+                https://quarkus.io/blog/quarkus-2-0-0-cr3-released/
+            </link>
+            <description>
+                Thanks to your feedback, we fixed some more issues in Quarkus 2.0 and we thought a new CR was necessary. As usual, it also comes with documentation refinements. We will build the Final artifacts on June 23rd so keep the feedback coming! Migration Guide We keep the Migration Guide up...
+            </description>
+            <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-2-0-0-cr3-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>About to release Quarkus 2 - ask us anything!</title>
+            <link>
+                https://quarkus.io/blog/quarkus-insights-qanda2/
+            </link>
+            <description>
+                With Quarkus 2 approaching its imminent release and we passed 50 episodes of Quarkus Insights we want to do Q&amp;A episode similar to what we did earlier in the year. We will cover the most often asked questions we have seen and any question tagged with #quarkusinsights on our various...
+            </description>
+            <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-insights-qanda2/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 2.0.0.CR2 released - Towards Final</title>
+            <link>
+                https://quarkus.io/blog/quarkus-2-0-0-cr2-released/
+            </link>
+            <description>
+                We just started the candidate release cycle for 2.0.0.Final. Feedback is very welcome so if you have a Quarkus app around, please give it a go. Make sure you update both the BOM version and the Quarkus Maven Plugin version to 2.0.0.CR2. Also, we only publish the quarkus-bom for non-Final...
+            </description>
+            <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-2-0-0-cr2-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 1.13.6.Final released - Maintenance release</title>
+            <link>
+                https://quarkus.io/blog/quarkus-1-13-6-final-released/
+            </link>
+            <description>
+                Unfortunately, 1.13.5.Final introduced a regression in the Hibernate Validator extension due to a Jandex issue (Jandex is our library indexing the classes and annotations). Thus, we released 1.13.6.Final today to mitigate the issue. 1.13.6.Final is a safe upgrade for everyone using Quarkus 1.13. Please also check out the 1.13.5 announcement...
+            </description>
+            <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-1-13-6-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 1.13.5.Final released - Maintenance release</title>
+            <link>
+                https://quarkus.io/blog/quarkus-1-13-5-final-released/
+            </link>
+            <description>
+                We released 1.13.5.Final today with a new set of bugfixes for our 1.13 release. 1.13.5.Final is a safe upgrade for everyone using Quarkus 1.13. If you are not using 1.13 already, please refer to the 1.13 migration guide. What&#8217;s new? Maven 3.8.1 Given there are a couple of CVEs in...
+            </description>
+            <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-1-13-5-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 2.0.0.Alpha3 released - GraalVM 21.1, SmallRye GraphQL Client...</title>
+            <link>
+                https://quarkus.io/blog/quarkus-2-0-0-alpha3-released/
+            </link>
+            <description>
+                We just released our third Alpha for Quarkus 2.0 which contains several enhancements and new features: #17014 - Update to GraalVM 21.1 #17350 - SmallRye GraphQL Client extension + 1.2.1 upgrade #16857 - Add Amazon SSM extension #16963 - Add quarkus:test goal #17232 - Introduce coroutine support in Reactive Messaging...
+            </description>
+            <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-2-0-0-alpha3-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 1.13.4.Final released - Maintenance release</title>
+            <link>
+                https://quarkus.io/blog/quarkus-1-13-4-final-released/
+            </link>
+            <description>
+                We just released 1.13.4.Final, a new maintenance release for the 1.13 release train. 1.13.4.Final is a safe upgrade for everyone using Quarkus 1.13. If you are not using 1.13 already, please refer to the 1.13 migration guide. What&#8217;s new? Full changelog You can get the full changelog of 1.13.4.Final on...
+            </description>
+            <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-1-13-4-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 2.0.0.Alpha2 released - Continuous Testing improvements</title>
+            <link>
+                https://quarkus.io/blog/quarkus-2-0-0-alpha2-released/
+            </link>
+            <description>
+                We just released our second Alpha for Quarkus 2.0. We had a lot of feedback and Continuous Testing got a lot of fixes and improvements. Please keep the feedback coming! If you have missed our Alpha1 announcement: here are the main new features of Quarkus 2.0. Migration Guide We will...
+            </description>
+            <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-2-0-0-alpha2-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 1.13.3.Final released - Maintenance release</title>
+            <link>
+                https://quarkus.io/blog/quarkus-1-13-3-final-released/
+            </link>
+            <description>
+                We just released 1.13.3.Final, a new maintenance release for the 1.13 release train. 1.13.3.Final is a safe upgrade for everyone using Quarkus 1.13. If you are not using 1.13 already, please refer to the 1.13 migration guide. What&#8217;s new? Full changelog You can get the full changelog of 1.13.3.Final on...
+            </description>
+            <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-1-13-3-final-released/
+            </guid>
+        </item>
+        
+    </channel>
+</rss>
